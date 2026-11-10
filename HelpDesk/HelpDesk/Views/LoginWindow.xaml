@@ -1,0 +1,17 @@
+<Window x:Class="HelpDesk.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HelpDesk — Авторизация" Height="300" Width="380"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="HelpDesk" FontSize="26" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TextBlock Text="Система обработки заявок" FontSize="14" HorizontalAlignment="Center" Margin="0,4,0,15"/>
+            <TextBlock Text="Логин" Margin="5,0,0,0"/>
+            <TextBox x:Name="LoginTextBox"/>
+            <TextBlock Text="Пароль" Margin="5,5,0,0"/>
+            <PasswordBox x:Name="PasswordInput" Height="32" Margin="5"/>
+            <Button Content="Войти" Width="120" Click="LoginButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

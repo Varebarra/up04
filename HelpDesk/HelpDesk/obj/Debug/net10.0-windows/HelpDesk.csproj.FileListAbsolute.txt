@@ -1,0 +1,52 @@
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.exe
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.deps.json
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.runtimeconfig.json
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.dll
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.pdb
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\LoginWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\MainWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketCreateWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketEditWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\App.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\LoginWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketCreateWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketEditWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk_MarkupCompile.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.g.resources
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.AssemblyInfoInputs.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.AssemblyInfo.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.dll
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\refint\HelpDesk.dll
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.pdb
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.genruntimeconfig.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\ref\HelpDesk.dll
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.exe
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.deps.json
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.runtimeconfig.json
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.dll
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\bin\Debug\net10.0-windows\HelpDesk.pdb
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\LoginWindow.baml
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\MainWindow.baml
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketCreateWindow.baml
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketEditWindow.baml
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\App.baml
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\LoginWindow.g.cs
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketCreateWindow.g.cs
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\Views\TicketEditWindow.g.cs
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\App.g.cs
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk_MarkupCompile.cache
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.g.resources
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.AssemblyInfoInputs.cache
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.AssemblyInfo.cs
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.csproj.CoreCompileInputs.cache
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.dll
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\refint\HelpDesk.dll
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.pdb
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\HelpDesk.genruntimeconfig.cache
+S:\!ИСП2131\Мамадов Мубориз\21\HelpDesk\HelpDesk\obj\Debug\net10.0-windows\ref\HelpDesk.dll
